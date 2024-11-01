@@ -1,0 +1,15 @@
+[package]
+name = "oxia-rs"
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE"
+description = "A Rust client library for oxia system"
+repository = "https://github.com/lsytj0413/oxia-rs"
+documentation = "https://docs.rs/oxia-rs/latest/oxia-rs/"
+categories = ["api-bindings"]
+keywords = ["oxia", "sdk", "library", "api"]
+rust-version = "1.81"
+readme = "README.md"
+authors = ["lsytj0413 <lsytj0413@gmail.com>"]
+
+[dependencies]
